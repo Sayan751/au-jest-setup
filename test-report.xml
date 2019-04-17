@@ -1,0 +1,59 @@
+<assemblies timestamp="4/17/2019, 9:42:51 AM">
+	<assembly name="C:\au-jest-setup" config-file="C:\au-jest-setup/jest.config.js" test-framework="Jest" environment="win32 x64" run-date="4/17/2019" run-time="9:42:51 AM" time="14.073" total="12" passed="11" failed="0" skipped="1" errors="0">
+		<errors/>
+		<collection name="C:\au-jest-setup\test\unit\child-router.spec.ts" time="3.164" total="5" passed="5" failed="0" skipped="0">
+			<test name="contains a router property" type="the Child Router module" method="Test" time="0.009" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="configures the heading" type="the Child Router module" method="Test" time="0.003" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should have a welcome route" type="the Child Router module" method="Test" time="0.002" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should have a users route" type="the Child Router module" method="Test" time="0.001" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should have a child router route" type="the Child Router module" method="Test" time="0" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+		</collection>
+		<collection name="C:\au-jest-setup\test\unit\app.spec.ts" time="3.167" total="5" passed="5" failed="0" skipped="0">
+			<test name="contains a router property" type="the App module" method="Test" time="0.005" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="configures the router title" type="the App module" method="Test" time="0.002" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should have a welcome route" type="the App module" method="Test" time="0.003" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should have a users route" type="the App module" method="Test" time="0.001" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="should have a child router route" type="the App module" method="Test" time="0" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+		</collection>
+		<collection name="C:\au-jest-setup\test\unit\users.spec.ts" time="4.131" total="2" passed="1" failed="0" skipped="1">
+			<test name="sets fetch response to users" type="the Users module" method="Test" time="0.002" result="undefined">
+				<output/>
+				<traits></traits>
+			</test>
+			<test name="attempt to test ui" type="the Users module" method="Test" time="0.482" result="Pass">
+				<output/>
+				<traits></traits>
+			</test>
+		</collection>
+	</assembly>
+</assemblies>
